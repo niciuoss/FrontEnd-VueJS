@@ -1910,7 +1910,6 @@ __metadata:
     eslint-plugin-vue: ^9.7.0
     jspdf: ^2.5.1
     jspdf-autotable: ^3.5.28
-    notify: ^0.1.0
     pinia: ^2.0.23
     prettier: 2.7.1
     qrious: ^4.0.2
@@ -2872,13 +2871,6 @@ __metadata:
   version: 3.0.0
   resolution: "normalize-path@npm:3.0.0"
   checksum: 88eeb4da891e10b1318c4b2476b6e2ecbeb5ff97d946815ffea7794c31a89017c70d7f34b3c2ebf23ef4e9fc9fb99f7dffe36da22011b5b5c6ffa34f4873ec20
-  languageName: node
-  linkType: hard
-
-"notify@npm:^0.1.0":
-  version: 0.1.0
-  resolution: "notify@npm:0.1.0"
-  checksum: 16f8f91dff1f92ef22f6f4afa15b65d0d560be1b57a1b984dfbbbf151a33f81cf3e02d418d4ddb2a2f59dda1682fb33012ef4b06c01ebab297261b8351af95b0
   languageName: node
   linkType: hard
 
