@@ -1,8 +1,6 @@
 import { createApp } from 'vue'
 import { Quasar } from 'quasar'
 import quasarLang from 'quasar/lang/pt-BR'
-import { Notify } from 'quasar'
-
 
 import '@quasar/extras/roboto-font/roboto-font.css'
 import iconSet from 'quasar/icon-set/material-icons-outlined'
@@ -31,7 +29,7 @@ const app = createApp(App)
 app.use(Quasar, {
   extras: ['material-icons-outlined'],
   iconSet: iconSet,
-  plugins: {Notify}, VueAnnouncer,
+  plugins: VueAnnouncer,
   lang: quasarLang,
 })
 
